@@ -1,0 +1,196 @@
+country,xcoor,ycoor,marker
+Afghanistan,596.0,438.0,normal
+Albania,105.0,526.0,small
+Algeria,-89.0,359.0,normal
+Andorra,-86.0,547.0,tiny
+Angola,82.0,-159.0,normal
+Antigua and Barbuda,-805.0,225.0,small
+Argentina,-800.0,-440.0,normal
+Armenia,362.0,522.0,small
+Australia,1359.0,-315.0,normal
+Austria,47.0,611.0,small
+Azerbaijan,392.0,520.0,small
+Bahamas,-948.0,309.0,small
+Bahrain,448.0,335.0,tiny
+Bangladesh,887.0,311.0,small
+Barbados,-785.0,171.0,tiny
+Belarus,175.0,686.0,small
+Belgium,-52.0,650.0,small
+Belize,-1106.0,221.0,small
+Benin,-86.0,135.0,small
+Bhutan,883.0,353.0,small
+Bolivia,-840.0,-216.0,normal
+Bosnia and Herzegovina,79.0,570.0,small
+Botswana,154.0,-280.0,small
+Brazil,-716.0,-125.0,normal
+Brunei,1189.0,60.0,small
+Bulgaria,155.0,549.0,small
+Burkina Faso,-128.0,166.0,small
+Burundi,228.0,-45.0,small
+Cote d'Ivoire,-178.0,97.0,small
+Cabo Verde,-381.0,208.0,small
+Cambodia,1069.0,163.0,small
+Cameroon,26.0,62.0,small
+Canada,-1012.0,744.0,normal
+Central African Republic,120.0,90.0,small
+Chad,92.0,198.0,small
+Chile,-879.0,-307.0,small
+China,952.0,451.0,normal
+Colombia,-947.0,47.0,small
+Comoros,377.0,-150.0,tiny
+Costa Rica,-1064.0,129.0,small
+Croatia,54.0,573.0,small
+Cuba,-993.0,283.0,small
+Cyprus,248.0,451.0,small
+Czechia,48.0,640.0,small
+Democratic Republic of the Congo,150.0,-31.0,normal
+Denmark,6.0,710.0,small
+Djibouti,370.0,151.0,small
+Dominica,-802.0,198.0,tiny
+Dominican Republic,-899.0,244.0,small
+Ecuador,-1007.0,-16.0,small
+Egypt,214.0,341.0,normal
+El Salvador,-1115.0,175.0,small
+Equatorial Guinea,5.0,20.0,small
+Eritrea,317.0,205.0,small
+Estonia,144.0,748.0,small
+Eswatini,237.0,-341.0,small
+Ethiopia,324.0,108.0,normal
+Fiji,1884.0,-230.0,small
+Finland,140.0,799.0,small
+France,-78.0,599.0,normal
+Gabon,19.0,-8.0,small
+Gambia,-289.0,174.0,tiny
+Georgia,344.0,544.0,small
+Germany,-2.0,656.0,small
+Ghana,-128.0,103.0,small
+Greece,132.0,500.0,small
+Grenada,-809.0,157.0,tiny
+Guatemala,-1129.0,193.0,small
+Guinea,-230.0,139.0,small
+Guinea-Bissau,-283.0,155.0,small
+Guyana,-784.0,78.0,small
+Haiti,-928.0,245.0,small
+Holy See,25.0,540.0,tiny
+Honduras,-1091.0,192.0,small
+Hungary,95.0,605.0,small
+Iceland,-250.0,817.0,small
+India,762.0,290.0,normal
+Indonesia,1278.0,-55.0,normal
+Iran,471.0,424.0,normal
+Iraq,357.0,429.0,small
+Ireland,-174.0,679.0,small
+Israel,270.0,407.0,small
+Italy,4.0,579.0,small
+Jamaica,-978.0,234.0,small
+Japan,1370.0,464.0,small
+Jordan,287.0,397.0,small
+Kazakhstan,574.0,625.0,normal
+Kenya,312.0,8.0,small
+Kiribati,-1915.0,39.0,small
+Kuwait,412.0,380.0,small
+Kyrgyzstan,672.0,534.0,small
+Laos,1035.0,254.0,small
+Latvia,149.0,726.0,small
+Lebanon,278.0,438.0,small
+Lesotho,200.0,-380.0,small
+Liberia,-222.0,83.0,small
+Libya,78.0,348.0,normal
+Liechtenstein,2.0,605.0,tiny
+Lithuania,135.0,706.0,small
+Luxembourg,-38.0,638.0,tiny
+Madagascar,411.0,-235.0,small
+Malawi,273.0,-166.0,small
+Malaysia,1047.0,51.0,small
+Maldives,699.0,88.0,small
+Mali,-128.0,235.0,normal
+Malta,48.0,462.0,tiny
+Marshall Islands,1692.0,82.0,small
+Mauritania,-229.0,252.0,normal
+Mauritius,532.0,-261.0,tiny
+Mexico,-1247.0,304.0,normal
+Micronesia,1569.0,96.0,small
+Moldova,187.0,607.0,small
+Monaco,-29.0,562.0,tiny
+Mongolia,934.0,601.0,normal
+Montenegro,85.0,549.0,tiny
+Morocco,-179.0,412.0,small
+Mozambique,314.0,-185.0,small
+Myanmar,956.0,277.0,small
+Namibia,77.0,-284.0,small
+Nauru,1684.0,15.0,tiny
+Nepal,808.0,364.0,small
+Netherlands,-43.0,671.0,small
+New Zealand,1704.0,-533.0,normal
+Nicaragua,-1071.0,167.0,small
+Niger,-10.0,223.0,small
+Nigeria,-26.0,121.0,normal
+North Korea,1222.0,515.0,small
+North Macedonia,123.0,536.0,small
+Norway,-14.0,774.0,normal
+Oman,525.0,278.0,small
+Pakistan,639.0,373.0,small
+Palau,1413.0,98.0,tiny
+Palestine,276.0,410.0,tiny
+Panama,-1025.0,110.0,small
+Papua New Guinea,1539.0,-83.0,small
+Paraguay,-761.0,-297.0,small
+Peru,-970.0,-118.0,small
+Philippines,1269.0,137.0,normal
+Poland,91.0,667.0,small
+Portugal,-192.0,504.0,small
+Qatar,457.0,325.0,small
+Republic of the Congo,67.0,-3.0,small
+Romania,150.0,591.0,small
+Russia,745.0,793.0,normal
+Rwanda,228.0,-24.0,small
+Saint Kitts and Nevis,-816.0,222.0,tiny
+Saint Lucia,-799.0,179.0,tiny
+Saint Vincent and the Grenadines,-803.0,171.0,tiny
+Samoa,2007.0,-177.0,small
+San Marino,26.0,561.0,small
+Sao Tome and Principe,-38.0,3.0,small
+Saudi Arabia,377.0,304.0,normal
+Senegal,-279.0,194.0,small
+Serbia,108.0,571.0,small
+Seychelles,516.0,-60.0,tiny
+Sierra Leone,-248.0,110.0,small
+Singapore,1068.0,17.0,tiny
+Slovakia,86.0,625.0,small
+Slovenia,48.0,592.0,small
+Solomon Islands,1699.0,-113.0,small
+Somalia,397.0,43.0,small
+South Africa,135.0,-393.0,normal
+South Korea,1255.0,471.0,small
+South Sudan,226.0,97.0,small
+Spain,-142.0,515.0,small
+Sri Lanka,802.0,99.0,small
+Sudan,222.0,211.0,normal
+Suriname,-750.0,54.0,small
+Sweden,47.0,788.0,small
+Switzerland,-17.0,602.0,small
+Syria,307.0,453.0,small
+Tajikistan,627.0,499.0,small
+Tanzania,279.0,-76.0,normal
+Thailand,1026.0,201.0,small
+Timor-Leste,1315.0,-112.0,small
+Togo,-101.0,113.0,small
+Tonga,1949.0,-273.0,tiny
+Trinidad and Tobago,-806.0,135.0,small
+Tunisia,-4.0,456.0,small
+Turkey,263.0,503.0,normal
+Turkmenistan,523.0,506.0,small
+Tuvalu,1883.0,-100.0,tiny
+Uganda,259.0,26.0,small
+Ukraine,220.0,632.0,normal
+United Arab Emirates,488.0,305.0,small
+United Kingdom,-113.0,677.0,small
+United States,-1160.0,513.0,normal
+Uruguay,-712.0,-424.0,small
+Uzbekistan,552.0,539.0,small
+Vanuatu,1773.0,-199.0,small
+Venezuela,-856.0,100.0,small
+Vietnam,1111.0,157.0,small
+Yemen,428.0,205.0,small
+Zambia,180.0,-188.0,small
+Zimbabwe,222.0,-244.0,small
